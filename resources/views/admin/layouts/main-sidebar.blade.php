@@ -77,14 +77,14 @@
             </a>
           </li>
 
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a href="/admin/transaksi/detail" class="nav-link">
               <i class="nav-icon fas fa-table"></i>
               <p>
                 Data Transaksi Detail
               </p>
             </a>
-          </li>
+          </li> -->
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
