@@ -27,10 +27,11 @@
 <div class="popular-product-area wrapper-padding-3 pt-115 pb-115">
 	<div class="container-fluid">
 		<div class="section-title-6 text-center mb-50">
-            <h1 class="text-center">Since 2004 we organize event seriously</h1>
-            <img src="{{ asset('img/Global-Kidz.jpg') }}" class="rounded mx-auto d-block" width="300" alt="">
+            <h1 class="text-center">Selamat Datang</h1>
+            <img src="{{ asset('img/logo-online-shop.jpg') }}" class="rounded mx-auto d-block" width="300" alt="">
             <br>
-            <p class="text-align">Global Kidz adalah penyedia jasa sewa permainan No.1 di indonesia. Kami juga menyediakan jasa sewa games, game event, dan game activation, Global Kidz senantiasa menjaga profesionalitasnya sejak berdirinya yaitu Tahun 2004.</p>
+            <p class="text-align">Toko Online Sederhana yang menyediakan berbagai macam makanan ringan (snack) dan minuman 
+                          dalam kemasan.</p>
         </div>
     </div>
 </div>

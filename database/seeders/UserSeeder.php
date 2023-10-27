@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
         DB::table('users')->insert([
             'nama' => 'Administrator',
             'level' => 'admin',
-            'username' => 'dandiagungs29',
+            'username' => 'admin123',
             'password' => Hash::make('admin123'),
             'remember_token' => Str::random(),
         ]);

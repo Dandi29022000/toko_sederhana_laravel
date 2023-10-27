@@ -21,18 +21,17 @@
         <div class="half-content d-lg-flex align-items-stretch">
             <div
             class="img"
-            style="background-image: url('img/About-Us.jpg')"
+            style="background-image: url('img/toko-online1.jpg')"
             data-aos="fade-in"
             data-aos-delay="100"
             ></div>
             <div class="text">
                 <h2 class="heading text-primary mb-3">
-                    Global Kidz
+                    Toko Online Sederhana
                 </h2>
                 <p class="mb-4">
-                    Global Kidz adalah penyedia jasa sewa permainan No.1 di indonesia. 
-                    Kami juga menyediakan jasa sewa games, game event, dan game activation.
-                    Global Kidz senantiasa menjaga profesionalitasnya sejak berdirinya yaitu Tahun 2004.
+                    Toko Online Sederhana yang menyediakan berbagai macam makanan ringan (snack) dan minuman 
+                          dalam kemasan.
                 </p>
 
                 <div class="social-links mb-3">
@@ -50,12 +49,12 @@
         <div class="half-content d-lg-flex align-items-stretch">
           <div
             class="img order-md-2"
-            style="background-image: url('img/3.jpg')"
+            style="background-image: url('img/belanja-online.png')"
             data-aos="fade-in"
           ></div>
           <div class="text">
             <h2 class="heading text-primary mb-3">
-                Sewa permainan terlengkap untuk segala event!
+                Beragam Macam Snack dan Minuman
             </h2>
             <p class="mb-4">
                 Dalam sebuah event atau acara, tentu butuh hiburan yang menyenangkan. 

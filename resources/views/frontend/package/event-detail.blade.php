@@ -19,7 +19,7 @@
 <section class="section">
     <div class="container">
         <div class="row blog-entries element-animate">
-            <div class="col-md-12 col-lg-8 main-content">
+            <div class="col-md-12 col-lg-12 main-content">
                 <div class="post-content-body">
                     <p>
                         {{ $Event->deskripsi}}
@@ -37,25 +37,6 @@
             </div>
 
             <!-- END main-content -->
-
-            <div class="col-md-12 col-lg-4 sidebar">
-                <!-- END sidebar-box -->
-                <div class="sidebar-box">
-                    <h3 class="heading">Catalogue</h3>
-                    <ul class="categories">
-                        <li><a href="/frontend-inflatables">Inflatables <span>{{ $jumlahData1 }}</a></li>
-                        <li><a href="/frontend-interactive">Interactive <span>{{ $jumlahData2 }}</a></li>
-                        <li><a href="/frontend-carnival">Carnival <span>{{ $jumlahData3 }}</a></li>
-                        <li><a href="/frontend-water">Water <span>{{ $jumlahData4 }}</a></li>
-                        <li><a href="/frontend-electrical">Electrical <span>{{ $jumlahData5 }}</a></li>
-                        <li><a href="/frontend-funny">Funny <span>{{ $jumlahData6 }}</a></li>
-                        <li><a href="/frontend-outbound">Outbound <span>{{ $jumlahData7 }}</a></li>
-                        <li><a href="/frontend-entertainment">Entertainment <span>{{ $jumlahData8 }}</a></li>
-                    </ul>
-                </div>
-                <!-- END sidebar-box -->
-            </div>
-            <!-- END sidebar -->
         </div>
     </div>
 </section>

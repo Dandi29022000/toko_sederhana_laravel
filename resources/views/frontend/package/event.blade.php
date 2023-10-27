@@ -19,7 +19,7 @@
 <div class="section search-result-wrap">
     <div class="container">
         <div class="row posts-entry">
-            <div class="col-lg-8">
+            <div class="col-lg-12">
                 @foreach($Event as $e)
                     <div class="blog-entry d-flex blog-entry-search-item">
                         <a href="single.html" class="img-link me-4">
@@ -45,22 +45,6 @@
                         </div>
                     </div>
                 @endforeach
-            </div>
-
-            <div class="col-lg-4 sidebar">
-                <div class="sidebar-box">
-                    <h3 class="heading">Catalogue</h3>
-                    <ul class="categories">
-                        <li><a href="/frontend-inflatables">Inflatables <span>{{ $jumlahData1 }}</a></li>
-                        <li><a href="/frontend-interactive">Interactive <span>{{ $jumlahData2 }}</a></li>
-                        <li><a href="/frontend-carnival">Carnival <span>{{ $jumlahData3 }}</a></li>
-                        <li><a href="/frontend-water">Water <span>{{ $jumlahData4 }}</a></li>
-                        <li><a href="/frontend-electrical">Electrical <span>{{ $jumlahData5 }}</a></li>
-                        <li><a href="/frontend-funny">Funny <span>{{ $jumlahData6 }}</a></li>
-                        <li><a href="/frontend-outbound">Outbound <span>{{ $jumlahData7 }}</a></li>
-                        <li><a href="/frontend-entertainment">Entertainment <span>{{ $jumlahData8 }}</a></li>
-                    </ul>
-                </div>
             </div>
             <!-- END sidebar-box -->
             </div>

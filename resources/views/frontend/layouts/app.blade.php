@@ -75,7 +75,7 @@
                                         <a href="/frontend-barang">Barang</a>
                                     </li>
                                     <li>
-                                        <a href="frontend-about">about us</a>
+                                        <a href="/frontend-about">about us</a>
                                     </li>
                                     <li>
                                         <a href="/frontend-event">event</a>
@@ -201,11 +201,9 @@
                 <div class="container-fluid">
                     <div class="widget-wrapper">
                         <div class="footer-widget mb-30">
-                            <a href="#"><img src="{{ asset('img/logo.png') }}" alt=""></a>
+                            <a href="#"><img width="50px" src="{{ asset('img/online-shop.png') }}" alt=""></a>
                             <div class="footer-about-2">
-                                <p>Global Kidz adalah penyedia jasa sewa permainan No.1 di indonesia. <br> 
-                                Kami juga menyediakan jasa sewa games, game event, <br> dan game activation.
-                                 GMG senantiasa menjaga profesionalitasnya <br> sejak berdirinya yaitu Tahun 2004.</p>
+                                <p>Toko Online Sederhana</p>
                             </div>
                         </div>
                         <div class="footer-widget mb-30">
@@ -216,7 +214,7 @@
                                         <span>Alamat: </span>
                                     </div>
                                     <div class="footer-info-content3">
-                                        <p>JL. MAMPANG PRAPATAN VIII R 11, <br> JAKARTA SELATAN</p>
+                                        <p>Jalan Condro Krajan <br> Kabupaten Lumajang</p>
                                     </div>
                                 </div>
                                 <div class="footer-address-furniture">
@@ -224,7 +222,7 @@
                                         <span>WA: </span>
                                     </div>
                                     <div class="footer-info-content3">
-                                        <p>081-7691-2757</p>
+                                        <p>0878-4618-4617</p>
                                     </div>
                                 </div>
                                 <div class="footer-address-furniture">
@@ -232,7 +230,7 @@
                                         <span>E-mail: </span>
                                     </div>
                                     <div class="footer-info-content3">
-                                        <p><a href="#">INFO@GLOBAL-K</a></p>
+                                        <p><a href="#">dandi.agungs46@gmail.com</a></p>
                                     </div>
                                 </div>
                                 <div class="footer-address-furniture">
@@ -269,7 +267,7 @@
                     <div class="row">
                         <div class="col-12 text-center">
                             <div class="copyright-furniture">
-                            Copyright © 2023 Global Kidz <br> Powered by Global Kidz</p>
+                            Copyright © 2023 <br> Powered by Toko Online Sederhana</p>
                             </div>
                         </div>
                     </div>
